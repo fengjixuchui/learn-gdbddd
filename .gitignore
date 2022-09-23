@@ -1,0 +1,7 @@
+gdb.txt
+a.out
+a.strip
+*.o
+.vscode
+.idea
+
